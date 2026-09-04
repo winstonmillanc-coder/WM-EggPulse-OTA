@@ -1,0 +1,7 @@
+{
+  "version": "1.8.1",
+  "file": "wm_eggpulse.bin",
+  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/wm_eggpulse.bin",
+  "mandatory": false,
+  "notes": "Version estable inicial con OTA HTTPS y rollback validado."
+}
