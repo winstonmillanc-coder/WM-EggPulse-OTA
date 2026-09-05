@@ -1,7 +1,7 @@
-{
-  "version": "1.8.2",
+﻿{
+  "version": "1.8.3",
   "file": "wm_eggpulse.bin",
   "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/wm_eggpulse.bin",
   "mandatory": false,
-  "notes": "Agrega reporte de version de firmware para diagnostico y deteccion OTA desde WM EggPulse."
+  "notes": "Corrige el flujo de provisionamiento de fabrica para huevos nuevos sin ID y mantiene compatibilidad con Secure Boot y Flash Encryption."
 }
