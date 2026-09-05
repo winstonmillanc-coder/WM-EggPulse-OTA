@@ -1,7 +1,7 @@
 {
-  "version": "1.8.1",
+  "version": "1.8.2",
   "file": "wm_eggpulse.bin",
   "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/wm_eggpulse.bin",
   "mandatory": false,
-  "notes": "Version estable inicial con OTA HTTPS y rollback validado."
+  "notes": "Agrega reporte de version de firmware para diagnostico y deteccion OTA desde WM EggPulse."
 }
