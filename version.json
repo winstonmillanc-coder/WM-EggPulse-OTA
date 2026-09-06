@@ -1,7 +1,7 @@
-{
+﻿{
   "version": "1.8.5",
   "file": "wm_eggpulse.bin",
   "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/wm_eggpulse.bin",
   "mandatory": false,
-  "notes": "Version de validacion para primera prueba OTA remota segura real desde firmware 1.8.4."
+  "notes": "Version de validacion OTA remota segura 1.8.5 con aumento de stack HTTP para corregir fallo de proteccion de stack durante autorizacion OTA."
 }
