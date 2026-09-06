@@ -1,7 +1,7 @@
 ﻿{
-  "version": "1.8.3",
+  "version": "1.8.4",
   "file": "wm_eggpulse.bin",
   "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/wm_eggpulse.bin",
   "mandatory": false,
-  "notes": "Corrige el flujo de provisionamiento de fabrica para huevos nuevos sin ID y mantiene compatibilidad con Secure Boot y Flash Encryption."
+  "notes": "Agrega OTA remota segura por red con autorizacion criptografica RSA-PSS, challenge de un solo uso y proteccion contra comandos OTA no autorizados."
 }
