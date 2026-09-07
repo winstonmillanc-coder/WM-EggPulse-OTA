@@ -1,7 +1,7 @@
 ﻿{
-  "version": "1.8.6",
+  "version": "1.8.7",
   "file": "wm_eggpulse.bin",
   "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/wm_eggpulse.bin",
   "mandatory": false,
-  "notes": "Version de validacion para prueba OTA remota segura completa desde firmware 1.8.5."
+  "notes": "Prueba controlada de rollback automatico: esta imagen se declara invalida al arrancar como OTA PENDING_VERIFY."
 }
