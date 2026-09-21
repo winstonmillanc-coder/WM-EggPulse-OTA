@@ -1,7 +1,7 @@
 {
-  "version": "1.8.17",
-  "file": "eggpulse_ota_test_1.8.17_BATTERY_CAL_2_132.bin",
-  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.17_BATTERY_CAL_2_132.bin",
+  "version": "1.8.19",
+  "file": "eggpulse_ota_test_1.8.19_SAMPLE_ID_NVS_FIX.bin",
+  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.19_SAMPLE_ID_NVS_FIX.bin",
   "mandatory": false,
-  "notes": "Version estable actual."
+  "notes": "Version estable actual. Incluye proteccion SAMPLE_ID con reserva NVS y recuperacion segura tras perdida de SD."
 }
