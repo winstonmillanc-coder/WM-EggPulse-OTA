@@ -1,7 +1,7 @@
 {
-  "version": "1.8.22",
-  "file": "eggpulse_ota_test_1.8.22_CALIBRATION_HOLD.bin",
-  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.22_CALIBRATION_HOLD.bin",
+  "version": "1.8.23",
+  "file": "eggpulse_ota_test_1.8.23_INTERVAL_NVS_FIX.bin",
+  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.23_INTERVAL_NVS_FIX.bin",
   "mandatory": false,
-  "notes": "Version de prueba 1.8.22. Incluye CALIBRATION_HOLD temporal para mantener el huevo despierto durante calibracion."
+  "notes": "Version de prueba 1.8.23. Corrige la clave NVS del intervalo de muestreo para permitir guardar interval_s correctamente."
 }
