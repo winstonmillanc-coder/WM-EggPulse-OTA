@@ -1,7 +1,7 @@
 {
-  "version": "1.8.21",
-  "file": "eggpulse_ota_test_1.8.21_INTERVAL_CALIBRATION.bin",
-  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.21_INTERVAL_CALIBRATION.bin",
+  "version": "1.8.22",
+  "file": "eggpulse_ota_test_1.8.22_CALIBRATION_HOLD.bin",
+  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.22_CALIBRATION_HOLD.bin",
   "mandatory": false,
-  "notes": "Version de prueba 1.8.21. Incluye intervalo de muestreo dinamico y calibracion DS18B20 con offset persistente en NVS."
+  "notes": "Version de prueba 1.8.22. Incluye CALIBRATION_HOLD temporal para mantener el huevo despierto durante calibracion."
 }
