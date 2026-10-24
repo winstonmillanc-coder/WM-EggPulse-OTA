@@ -1,7 +1,7 @@
 {
-  "version": "1.8.23",
-  "file": "eggpulse_ota_test_1.8.23_INTERVAL_NVS_FIX.bin",
-  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.23_INTERVAL_NVS_FIX.bin",
+  "version": "1.8.24",
+  "file": "eggpulse_ota_test_1.8.24_SD_MUTEX.bin",
+  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.24_SD_MUTEX.bin",
   "mandatory": false,
-  "notes": "Version de prueba 1.8.23. Corrige la clave NVS del intervalo de muestreo para permitir guardar interval_s correctamente."
+  "notes": "Version de prueba 1.8.24. Agrega mutex exclusivo para evitar acceso simultaneo de lectura y escritura a la microSD."
 }
