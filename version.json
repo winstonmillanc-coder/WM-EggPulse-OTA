@@ -1,7 +1,7 @@
 {
-  "version": "1.8.24",
-  "file": "eggpulse_ota_test_1.8.24_SD_MUTEX.bin",
-  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.24_SD_MUTEX.bin",
+  "version": "1.8.25",
+  "file": "eggpulse_ota_test_1.8.25_SHT45_DETECT.bin",
+  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.25_SHT45_DETECT.bin",
   "mandatory": false,
-  "notes": "Version de prueba 1.8.24. Agrega mutex exclusivo para evitar acceso simultaneo de lectura y escritura a la microSD."
+  "notes": "Version de prueba 1.8.25. Agrega deteccion inicial del sensor SHT45 por I2C en GPIO0/GPIO3."
 }
