@@ -1,7 +1,7 @@
 {
-  "version": "1.8.26",
-  "file": "eggpulse_ota_test_1.8.26_SHT45_STATUS.bin",
-  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.26_SHT45_STATUS.bin",
+  "version": "1.8.27",
+  "file": "eggpulse_ota_test_1.8.27_SHT45_PROBE.bin",
+  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.27_SHT45_PROBE.bin",
   "mandatory": false,
-  "notes": "Version de prueba 1.8.26. Agrega estado sht45_ok al JSON Wi-Fi para verificar deteccion del sensor SHT45."
+  "notes": "Version de prueba 1.8.27. Simplifica la deteccion del SHT45 usando bus I2C + probe directo en 0x44."
 }
