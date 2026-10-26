@@ -1,7 +1,7 @@
 {
-  "version": "1.8.28",
-  "file": "eggpulse_ota_test_1.8.28_I2C_SCAN.bin",
-  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.28_I2C_SCAN.bin",
+  "version": "1.8.29",
+  "file": "eggpulse_ota_test_1.8.29_SHT45_DIRECT.bin",
+  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.29_SHT45_DIRECT.bin",
   "mandatory": false,
-  "notes": "Version de prueba 1.8.28. Agrega scanner I2C completo para detectar la direccion real del sensor conectado."
+  "notes": "Version de prueba 1.8.29. Realiza comunicacion directa con SHT45 usando comando 0xFD y lectura de 6 bytes."
 }
