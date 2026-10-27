@@ -1,7 +1,7 @@
 {
-  "version": "1.8.30",
-  "file": "eggpulse_ota_test_1.8.30_SHT45_GPIO20_21.bin",
-  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.30_SHT45_GPIO20_21.bin",
+  "version": "1.8.31",
+  "file": "eggpulse_ota_test_1.8.31_SHT45_HUMIDITY.bin",
+  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.31_SHT45_HUMIDITY.bin",
   "mandatory": false,
-  "notes": "Version de prueba 1.8.30. Prueba SHT45 por I2C usando SDA GPIO20 y SCL GPIO21."
+  "notes": "Version de prueba 1.8.31. Agrega lectura real de temperatura y humedad del SHT45 con validacion CRC."
 }
