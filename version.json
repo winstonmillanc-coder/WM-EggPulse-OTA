@@ -1,7 +1,7 @@
-{
-  "version": "1.8.31",
-  "file": "eggpulse_ota_test_1.8.31_SHT45_HUMIDITY.bin",
-  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.31_SHT45_HUMIDITY.bin",
+﻿{
+  "version": "1.8.33",
+  "file": "eggpulse_ota_test_1.8.33_SHT45_CAL.bin",
+  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.33_SHT45_CAL.bin",
   "mandatory": false,
-  "notes": "Version de prueba 1.8.31. Agrega lectura real de temperatura y humedad del SHT45 con validacion CRC."
+  "notes": "Version de prueba 1.8.33. Ajuste de calibracion del sensor SHT45."
 }
