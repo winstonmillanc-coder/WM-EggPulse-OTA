@@ -1,7 +1,7 @@
-﻿{
-  "version": "1.8.33",
-  "file": "eggpulse_ota_test_1.8.33_SHT45_CAL.bin",
-  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.33_SHT45_CAL.bin",
+{
+  "version": "1.8.34",
+  "file": "eggpulse_ota_test_1.8.34_INTERVAL_24H.bin",
+  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.34_INTERVAL_24H.bin",
   "mandatory": false,
-  "notes": "Version de prueba 1.8.33. Ajuste de calibracion del sensor SHT45."
+  "notes": "Version de prueba 1.8.34. Intervalo de registro ampliado hasta 24 horas."
 }
