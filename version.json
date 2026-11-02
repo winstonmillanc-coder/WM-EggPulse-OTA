@@ -1,7 +1,7 @@
-{
-  "version": "1.8.34",
-  "file": "eggpulse_ota_test_1.8.34_INTERVAL_24H.bin",
-  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.34_INTERVAL_24H.bin",
+﻿{
+  "version": "1.8.35",
+  "file": "eggpulse_ota_test_1.8.35_SERVICE_WAKE_5MIN.bin",
+  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.35_SERVICE_WAKE_5MIN.bin",
   "mandatory": false,
-  "notes": "Version de prueba 1.8.34. Intervalo de registro ampliado hasta 24 horas."
+  "notes": "Version de prueba 1.8.35. Intervalo de registro separado del despertar de servicio; el huevo despierta como maximo cada 5 minutos para recibir comandos."
 }
