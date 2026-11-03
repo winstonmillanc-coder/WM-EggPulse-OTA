@@ -1,7 +1,8 @@
-﻿{
-  "version": "1.8.36",
-  "file": "eggpulse_ota_test_1.8.36_REMOTE_SERVICE_60S.bin",
-  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.36_REMOTE_SERVICE_60S.bin",
+{
+  "version": "1.8.37",
+  "file": "eggpulse_ota_test_1.8.37_SD_INDEX.bin",
+  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.37_SD_INDEX.bin",
   "mandatory": false,
-  "notes": "Version de prueba 1.8.36. Registro y servicio remoto independientes. Despertar de servicio maximo cada 60 segundos, sin NTP en despertares exclusivos de servicio. OTA_HOLD con timeout seguro y calibracion con hold extendido."
+  "notes": "SD Sync indexado para archivos historicos grandes.",
+  "sha256": "0FC161BDD0178C880951ADEFF254BC4DA83B646D3E3CBFA401347AC8CD3C70AD"
 }
