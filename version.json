@@ -1,8 +1,8 @@
 {
-  "version": "1.8.37",
-  "file": "eggpulse_ota_test_1.8.37_SD_INDEX.bin",
-  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.37_SD_INDEX.bin",
+  "version": "1.8.38",
+  "file": "eggpulse_ota_test_1.8.38_CAL_MULTI.bin",
+  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.38_CAL_MULTI.bin",
   "mandatory": false,
-  "notes": "SD Sync indexado para archivos historicos grandes.",
-  "sha256": "0FC161BDD0178C880951ADEFF254BC4DA83B646D3E3CBFA401347AC8CD3C70AD"
+  "notes": "Calibracion multiple DS18B20 y SHT45 con offset persistente de humedad.",
+  "sha256": "994B423039A0A711BC66E936E15CDFAB82D26050872DBF2182938571EBD371E5"
 }
