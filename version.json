@@ -1,8 +1,8 @@
 {
-  "version": "1.8.38",
-  "file": "eggpulse_ota_test_1.8.38_CAL_MULTI.bin",
-  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.38_CAL_MULTI.bin",
+  "version": "1.8.39",
+  "file": "eggpulse_ota_test_1.8.39_SHT45_REFRESH.bin",
+  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.39_SHT45_REFRESH.bin",
   "mandatory": false,
-  "notes": "Calibracion multiple DS18B20 y SHT45 con offset persistente de humedad.",
-  "sha256": "994B423039A0A711BC66E936E15CDFAB82D26050872DBF2182938571EBD371E5"
+  "notes": "Actualizacion continua SHT45 y aplicacion inmediata del offset de temperatura ambiente.",
+  "sha256": "0899DA71B1152E00055EB1E0E2A299E27DF80EC95C0F2C4A41E3573D38E0F724"
 }
