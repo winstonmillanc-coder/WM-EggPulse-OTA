@@ -1,8 +1,8 @@
 {
-  "version": "1.8.39",
-  "file": "eggpulse_ota_test_1.8.39_SHT45_REFRESH.bin",
-  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.39_SHT45_REFRESH.bin",
+  "version": "1.8.40",
+  "file": "eggpulse_ota_test_1.8.40_SERVICE_5MIN.bin",
+  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.40_SERVICE_5MIN.bin",
   "mandatory": false,
-  "notes": "Actualizacion continua SHT45 y aplicacion inmediata del offset de temperatura ambiente.",
-  "sha256": "0899DA71B1152E00055EB1E0E2A299E27DF80EC95C0F2C4A41E3573D38E0F724"
+  "notes": "Optimizacion de bateria: intervalo maximo de despertar de servicio aumentado de 60 a 300 segundos (5 minutos).",
+  "sha256": "E61559604192B43E2F42E2D1CA64B1613EEB14FB95307628AFFFE33B1693BB88"
 }
