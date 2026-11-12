@@ -1,8 +1,8 @@
-{
-  "version": "1.8.40",
-  "file": "eggpulse_ota_test_1.8.40_SERVICE_5MIN.bin",
-  "url": "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.40_SERVICE_5MIN.bin",
-  "mandatory": false,
-  "notes": "Optimizacion de bateria: intervalo maximo de despertar de servicio aumentado de 60 a 300 segundos (5 minutos).",
-  "sha256": "E61559604192B43E2F42E2D1CA64B1613EEB14FB95307628AFFFE33B1693BB88"
+﻿{
+    "version":  "1.8.41",
+    "sha256":  "021F3C1A527C19D79EF1E190E59C72B09B41AD10EFF3136555FC3B96A0A5C966",
+    "notes":  "Control de incubacion activa para registrar muestras en microSD solo durante incubaciones y nuevo comando SD_CLEAR para limpiar historial V3 preservando sample_id.",
+    "mandatory":  false,
+    "url":  "https://raw.githubusercontent.com/winstonmillanc-coder/WM-EggPulse-OTA/main/eggpulse_ota_test_1.8.41_INCUBATION_SD_CLEAR.bin",
+    "file":  "eggpulse_ota_test_1.8.41_INCUBATION_SD_CLEAR.bin"
 }
